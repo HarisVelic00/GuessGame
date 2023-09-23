@@ -1,0 +1,7 @@
+C:\Users\Haris\Desktop\GuessGame\GuessGame\bin\Debug\GuessGame.exe.config
+C:\Users\Haris\Desktop\GuessGame\GuessGame\bin\Debug\GuessGame.exe
+C:\Users\Haris\Desktop\GuessGame\GuessGame\bin\Debug\GuessGame.pdb
+C:\Users\Haris\Desktop\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.AssemblyReference.cache
+C:\Users\Haris\Desktop\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.CoreCompileInputs.cache
+C:\Users\Haris\Desktop\GuessGame\GuessGame\obj\Debug\GuessGame.exe
+C:\Users\Haris\Desktop\GuessGame\GuessGame\obj\Debug\GuessGame.pdb
